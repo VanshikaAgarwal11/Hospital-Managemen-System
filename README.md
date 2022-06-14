@@ -1,2 +1,2 @@
-# Hospital-Managemen-System
+# Hospital-Management-System
 Project using File Handling in C
